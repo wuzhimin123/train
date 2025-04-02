@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"module.h": "c",
+			"type_traits": "c",
+			"typeinfo": "c",
+			"gpio.h": "c",
+			"signal.h": "c",
+			"ioctl.h": "c",
+			"time.h": "c",
+			"ipc.h": "c"
+		}
+	}
+}
